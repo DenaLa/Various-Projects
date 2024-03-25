@@ -1,0 +1,12 @@
+イチ、ひとつ、一、one
+ウ、みぎ、右、right (direction)
+ウ、あめ、雨、rain
+N/A、まるい、円、round
+オウ、N/A、王、king
+オン、おと、音、sound
+カ、した、下、under
+カ、ひ、火、fire
+カ、はな、花、flower
+カイ、N/A、貝、shellfish
+ガク、まなぶ、学ぶ、learning
+キ、N/A、気、spirit
