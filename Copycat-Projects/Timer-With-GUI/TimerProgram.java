@@ -1,5 +1,3 @@
-package timer;
-
 //tutorial from Winston Lievsay on youtube
 
 import java.awt.event.*;
