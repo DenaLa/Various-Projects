@@ -1,2 +1,3 @@
-Exactly what it says. These are copycat projects that I'm listing here to show that I've had exposure to multiple topics in multiple programming languages.
-The source of the code will always be listed within the code itself, as well as in a Read Me in each individual folder. If I instead wrote the equivalent code by hand, I will state so.
+A list of projects that I have done with a tutorial. They are just listed for posterity, since many of the projects are hosted here on github itself.
+
+This is here for posterity. I wish to be exposed to a wide array of projects to foster my own creativity in a more practical sense.
