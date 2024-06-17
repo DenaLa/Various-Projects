@@ -1,3 +1,1 @@
-A list of projects that I have done with a tutorial. They are just listed for posterity, since many of the projects are hosted here on github itself.
-
-This is here for posterity. I wish to be exposed to a wide array of projects to foster my own creativity in a more practical sense.
+These are a list of project tutorials I have followed. No code will be posted here, since the code are provided in the projects themselves. If you want to follow along with the projects, I've provided links to each and every one.
